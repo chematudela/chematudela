@@ -1,4 +1,4 @@
-## Hola Mundo! Me presento: 
+## Hola Mundo! Me presento, Soy José María: 
 
 Científico de datos con experiencia en análisis de datos 📊, desarrollo de modelos predictivos 🤖, y visualización de resultados 📈. Conocimientos en Python 🐍, SQL 💾 y herramientas como Pandas 🐼, Scikit-learn 🤖 y Matplotlib 📉.
 
